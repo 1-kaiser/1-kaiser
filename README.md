@@ -23,6 +23,7 @@
 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1-kaiser&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=1-kaiser&theme=algolia&show_icons=true)
 
 
 
