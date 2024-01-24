@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **1-kaiser/1-kaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
