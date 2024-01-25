@@ -20,6 +20,8 @@
    ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 <!-- ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) -->
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1-kaiser&theme=dracula&layout=compact)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -29,10 +31,13 @@
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1-kaiser&theme=dracula&layout=compact)
+
 
 
 
