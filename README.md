@@ -1,12 +1,12 @@
 ### Socials
-<a href="https://www.instagram.com/soazen.1/"><img src="https://img.shields.io/badge/soazen.1-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/emmanuel-punay-707938264/"><img src="https://img.shields.io/badge/emman-230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/soazen.1/"><img src="https://img.shields.io/badge/soazen.1-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/emmanuel-punay-707938264/"><img src="https://img.shields.io/badge/emmanuelpunay-230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/altered.dominus"><img src="https://img.shields.io/badge/emman-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 ### How to reach me: 
 <a href="mailto: emmanuelpunay6906@gmail.com">
 <img src="https://img.shields.io/badge/-emmanuelpunay6906@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
-### Tools & stacks i work upon:
+### Tools & stacks I work upon:
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
